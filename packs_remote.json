@@ -1,0 +1,260 @@
+{
+  "configVersion": 1,
+  "baseUrl": "https://pub-56e0c604e4aa448d97aa73ab4d970696.r2.dev/",
+  "packs": [
+    {
+      "order": 1,
+      "displayName": "Real.1",
+      "stickerCount": 39,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/1/eye_1",
+      "thumbPath": "thumbs/eye1.png",
+      "packversion": "1"
+    },
+    {
+      "order": 2,
+      "displayName": "Real.2",
+      "stickerCount": 31,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/2/eye_2",
+      "thumbPath": "thumbs/eye2.png",
+      "packversion": "1"
+    },
+    {
+      "order": 3,
+      "displayName": "Animal",
+      "stickerCount": 40,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/3/eye_3",
+      "thumbPath": "thumbs/eye3.png",
+      "packversion": "1"
+    },
+    {
+      "order": 4,
+      "displayName": "Ninja",
+      "stickerCount": 35,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/4/eye_4",
+      "thumbPath": "thumbs/eye4.png",
+      "packversion": "1"
+    },
+    {
+      "order": 5,
+      "displayName": "Flags",
+      "stickerCount": 27,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/5/eye_5",
+      "thumbPath": "thumbs/eye5.png",
+      "packversion": "1"
+    },
+    {
+      "order": 6,
+      "displayName": "Others",
+      "stickerCount": 30,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/6/eye_6",
+      "thumbPath": "thumbs/eye6.png",
+      "packversion": "1"
+    },
+    {
+      "order": 7,
+      "displayName": "Real.3",
+      "stickerCount": 34,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/7/eye_7",
+      "thumbPath": "thumbs/eye7.png",
+      "packversion": "1"
+    },
+    {
+      "order": 8,
+      "displayName": "Real.4",
+      "stickerCount": 30,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/8/eye_8",
+      "thumbPath": "thumbs/eye8.png",
+      "packversion": "1"
+    },
+    {
+      "order": 9,
+      "displayName": "Rainbow",
+      "stickerCount": 40,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/9/eye_9",
+      "thumbPath": "thumbs/eye9.png",
+      "packversion": "1"
+    },
+    {
+      "order": 10,
+      "displayName": "Diamond",
+      "stickerCount": 30,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/10/eye_10",
+      "thumbPath": "thumbs/eye10.png",
+      "packversion": "1"
+    },
+    {
+      "order": 11,
+      "displayName": "Tech.1",
+      "stickerCount": 23,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/11/eye_11",
+      "thumbPath": "thumbs/eye11.png",
+      "packversion": "1"
+    },
+    {
+      "order": 12,
+      "displayName": "Rainbow.2",
+      "stickerCount": 39,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/12/eye_12",
+      "thumbPath": "thumbs/eye12.png",
+      "packversion": "1"
+    },
+    {
+      "order": 13,
+      "displayName": "Rainbow",
+      "stickerCount": 44,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/13/eye_13",
+      "thumbPath": "thumbs/eye13.png",
+      "packversion": "1"
+    },
+    {
+      "order": 14,
+      "displayName": "Real.5",
+      "stickerCount": 39,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/14/eye_14",
+      "thumbPath": "thumbs/eye14.png",
+      "packversion": "1"
+    },
+    {
+      "order": 15,
+      "displayName": "Rainbow.4",
+      "stickerCount": 54,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/15/eye_15",
+      "thumbPath": "thumbs/eye15.png",
+      "packversion": "1"
+    },
+    {
+      "order": 16,
+      "displayName": "Dark",
+      "stickerCount": 41,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/16/eye_16",
+      "thumbPath": "thumbs/eye16.png",
+      "packversion": "1"
+    },
+    {
+      "order": 17,
+      "displayName": "Flower.1",
+      "stickerCount": 48,
+      "premium": false,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/17/eye_17",
+      "thumbPath": "thumbs/eye17.png",
+      "packversion": "1"
+    },
+    {
+      "order": 18,
+      "displayName": "Galaxy",
+      "stickerCount": 99,
+      "premium": true,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/18/eye_18",
+      "thumbPath": "thumbs/eye18.png",
+      "packversion": "1"
+    },
+    {
+      "order": 19,
+      "displayName": "Flower.2",
+      "stickerCount": 101,
+      "premium": true,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/19/eye_19",
+      "thumbPath": "thumbs/eye19.png",
+      "packversion": "1"
+    },
+    {
+      "order": 20,
+      "displayName": "Tech.2",
+      "stickerCount": 102,
+      "premium": true,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/20/eye_20",
+      "thumbPath": "thumbs/eye20.png",
+      "packversion": "1"
+    },
+    {
+      "order": 21,
+      "displayName": "Shape.1",
+      "stickerCount": 100,
+      "premium": true,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/21/eye_21",
+      "thumbPath": "thumbs/eye21.png",
+      "packversion": "1"
+    },
+    {
+      "order": 22,
+      "displayName": "Fire.1",
+      "stickerCount": 100,
+      "premium": true,
+      "enabled": true,
+      "storageType": "internal",
+      "itemPathPrefix": "eye/22/eye_22",
+      "thumbPath": "thumbs/eye22.png",
+      "packversion": "1"
+    },
+    {
+      "order": 23,
+      "displayName": "test.1",
+      "stickerCount": 100,
+      "premium": true,
+      "enabled": true,
+      "storageType": "local",
+      "itemPathPrefix": "eye/23/eye_23",
+      "thumbPath": "thumbs/eye23.png",
+      "packversion": "1",
+      "zipFileName": "packs/pack_23.zip"
+    }
+  ]
+}
