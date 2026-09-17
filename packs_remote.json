@@ -38,7 +38,7 @@
     {
       "order": 4,
       "displayName": "Ninja",
-      "stickerCount": 35,
+      "stickerCount": 55,
       "premium": false,
       "enabled": true,
       "storageType": "internal",
@@ -246,9 +246,9 @@
     },
     {
       "order": 23,
-      "displayName": "test.1",
-      "stickerCount": 100,
-      "premium": true,
+      "displayName": "Anime",
+      "stickerCount": 25,
+      "premium": false,
       "enabled": true,
       "storageType": "local",
       "itemPathPrefix": "eye/23/eye_23",
