@@ -1,0 +1,17 @@
+name: Purge jsDelivr Cache
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'packs_remote.json'
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge jsDelivr cache
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/smile1412-byte/foxeyes-config@main/packs_remote.json"
+          echo ""
+          echo "Cache purged!"
