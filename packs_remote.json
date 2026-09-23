@@ -255,6 +255,19 @@
       "thumbPath": "thumbs/eye23.png",
       "packversion": "1",
       "zipFileName": "packs/pack_23.zip"
+    },
+    {
+      "order": 24,
+      "displayName": "Candy.1",
+      "stickerCount": 100,
+      "premium": true,
+      "enabled": true,
+      "storageType": "local",
+      "itemPathPrefix": "eye/24/eye_24",
+      "thumbPath": "thumbs/eye24.png",
+      "packversion": "1",
+      "zipFileName": "packs/pack_24.zip"
+
     }
   ]
 }
